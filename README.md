@@ -1,4 +1,4 @@
-# Node.js Authentication System with Passport.js
+# Node.js Authentication System with Passport.js Local-Strategy
 
 This is a simple authentication system built with Node.js, Express.js, and Passport.js. The project includes user registration, login, session management, and user authentication using Passport's local strategy.
 
