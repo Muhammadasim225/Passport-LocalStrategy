@@ -4,24 +4,7 @@ This is a simple authentication system built with Node.js, Express.js, and Passp
 
 ## 📁 Project Structure
 
-passportjs/
-├── backend/
-│   ├── config/
-│   │   └── db.js               # MongoDB connection and user schema
-│   ├── server.js               # Main server file
-│   ├── passportConfig.js       # Passport.js configuration
-│   └── .env                    # Environment variables
-
-|
-├── frontend/
-│   ├── views/
-│   │   ├── dashboard.ejs       # Dashboard page
-│   │   ├── login.ejs           # Login page
-│   │   ├── register.ejs        # Registration page
-│
-├── .gitignore                  # Ignoring sensitive and unnecessary files
-├── package.json                # Node.js dependencies and scripts
-└── README.md                   # Project documentation
+![image](https://github.com/user-attachments/assets/67aca9e1-df66-4149-afc9-3951c47b7909)
 
 
 ---
