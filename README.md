@@ -74,37 +74,35 @@ passportjs/
 6. Navigate to the Frontend Add your frontend folder with views such as login.ejs, register.ejs, and dashboard.ejs for rendering.
 
 
- ### 🌟 Frontend Views
-
- ## 🧪 API Endpoints
+  ## 🧪 API Endpoints
  
- # Public Routes
+   ### Public Routes
 
- -**GET /register:** Displays the registration page.
- -**POST /register:** Handles user registration.
- -**GET /login:** Displays the login page.
- -**POST /login:** Authenticates the user.
+   -**GET /register:** Displays the registration page.
+   -**POST /register:** Handles user registration.
+   -**GET /login:** Displays the login page.
+   -**POST /login:** Authenticates the user.
 
-# Protected Routes
+   ### Protected Routes
 
--**GET /:** Displays the dashboard (requires authentication).
--**GET /profile:** Returns user profile data.
--**GET /logout:** Logs out the user.
+   -**GET /:** Displays the dashboard (requires authentication).
+   -**GET /profile:** Returns user profile data.
+   -**GET /logout:** Logs out the user.
 
 
-## ⚙️ Technologies Used
+  ## ⚙️ Technologies Used
 
--**Backend:** Node.js, Express.js
--**Authentication:** Passport.js
--**Database:** MongoDB with Mongoose
--**Templating Engine:** EJS
--**Session Management:** Express-session
+  -**Backend:** Node.js, Express.js
+  -**Authentication:** Passport.js
+  -**Database:** MongoDB with Mongoose
+  -**Templating Engine:** EJS
+  -**Session Management:** Express-session
 
-## ✨ Future Improvements
+  ## ✨ Future Improvements
 
--Add password hashing (e.g., using bcrypt) for secure storage.
--Implement proper error handling and validation.
--Enhance frontend design with CSS frameworks like Bootstrap or Tailwind.
+  -Add password hashing (e.g., using bcrypt) for secure storage.
+  -Implement proper error handling and validation.
+  -Enhance frontend design with CSS frameworks like Bootstrap or Tailwind.
 
 
 
